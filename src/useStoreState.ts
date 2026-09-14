@@ -5,7 +5,7 @@ import { fetchLiveStoreData, saveLiveStoreData } from './cloudSync';
 import { withImageCacheBuster } from './utils/imageUtils';
 import { scheduleAsyncStorageWrite, getStoredItemOrPending } from './utils/asyncStorage';
 
-const STORAGE_KEY = 'ahmed_bhai_ff_store_v1';
+const STORAGE_KEY = 'ahmed_bhai_ff_store_v2';
 const SYNC_CHANNEL_NAME = 'ahmed_bhai_ff_store_sync_v2';
 
 // Quick fingerprint generator to detect actual store changes
