@@ -40,9 +40,9 @@ export const DEFAULT_STORE_STATE: StoreState = {
     tiktokUrl: 'https://www.tiktok.com/@ahmed_bhai05',
     paymentNumber: '03403782084',
     paymentName: 'Iram Sabeen',
-    paymentMethods: 'Easypaisa / Jazzcash',
+    paymentMethods: 'Easy paisa / Jazz cash',
     deliverySecurityNote:
-      'Agar ID Sale krni hai to First Security Then Payment process. Buying par Payment SS ke baad ID mil jaye gi. 🔥',
+      'Agar ID Sale krni hai to First Security Then Payment process. Same process Buying par Payment SS ke baad ID mil jaye gi. 🔥',
     logoUrl: 'https://i.ibb.co/67pk7bC9/304173.png',
     brandName: 'AHMED BHAI',
     brandTagline: 'Buy & Sell Game IDs & Resources',
